@@ -1,0 +1,13 @@
+{
+    "name": "ann/jwalbli-psr-4",
+    "description": "This is post Helper for access API from jsonplaceholder.typicode.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aghniya Ni'amillah Nurhilman",
+            "email": "aghniyan@gmail.com"
+        }
+    ],
+    "require": {}
+}
