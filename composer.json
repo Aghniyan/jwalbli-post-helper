@@ -1,5 +1,5 @@
 {
-    "name": "ann/jwalbli-psr-4",
+    "name": "aghniyan/jwalbli-post-helper",
     "description": "This is post Helper for access API from jsonplaceholder.typicode.com",
     "type": "library",
     "license": "MIT",
