@@ -60,7 +60,7 @@ class PostHelper
     public function updatePost($request, $id)
     {
         $data = $this->initData($request, 'update');
-        return $this->curl($this->request_url . '/' . $id, 'PATCH', $request);
+        return $this->curl($this->request_url . '/' . $id, 'PATCH', $data);
     }
 
     public function deletePost($id)
